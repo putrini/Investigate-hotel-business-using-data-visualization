@@ -9,5 +9,4 @@ The goal is to analyze hotel business performance using business metrics related
 ## Tools
 The tools are Python as programming language, Google Colaboratory as the tools and python library used are Pandas, Numpy, Matplotlib and SeabornP
 ## Dataset
-The dataset is using ecommerce dataset from [here](https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/mini-projects/6-investigate-hotel-business-using-data-visualization/hotel_bookings_data.csv).
-
+The dataset is using hotel bookings dataset from [here](https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/mini-projects/6-investigate-hotel-business-using-data-visualization/hotel_bookings_data.csv).
